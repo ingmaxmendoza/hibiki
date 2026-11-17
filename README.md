@@ -6,7 +6,9 @@ Design a guitar effect pedal as a schematic, hear it on a real audio track, and 
 
 ![Breadboard layout of the same circuit, checked against the schematic](docs/breadboard.png)
 
-Start: double-click `index.html` (Chrome or Edge). The project autosaves in the browser; use Save / Open for `.json` files you want to keep or move. After the files change, reload the tab.
+Try it in the browser: https://ingmaxmendoza.github.io/hibiki/
+
+Start locally: download the folder and double-click `index.html` (Chrome or Edge). The project autosaves in the browser; use Save / Open for `.json` files you want to keep or move. After the files change, reload the tab.
 
 ## What it does
 
